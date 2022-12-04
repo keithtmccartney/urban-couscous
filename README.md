@@ -13,7 +13,7 @@ Grab the article at [https://medium.com/geekculture/build-high-performant-micros
 
 ## Notes:
 
-* [Single Instruction Multiple Data](https://en.wikipedia.org/wiki/SIMD#:~:text=Single%20instruction%2C%20multiple%20data%20(SIMD,parallel%20processing%20in%20Flynn's%20taxonomy.&text=SIMD%20describes%20computers%20with%20multiple,on%20multiple%20data%20points%20simultaneously.);
+* [Single Instruction Multiple Data](https://en.wikipedia.org/wiki/Single_instruction,_multiple_data);
 * Zero Copy ByteString API;
 * [Dynamic Buffer Size](https://github.com/dotnet/runtime/pull/54755);
 * [Transient Fault Handling](https://docs.microsoft.com/en-us/aspnet/core/grpc/retries?view=aspnetcore-6.0);
