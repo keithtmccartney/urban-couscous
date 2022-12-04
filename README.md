@@ -5,7 +5,7 @@ Grab the article at [https://medium.com/geekculture/build-high-performant-micros
 
 ## Tips/Run
 
-* Abc;
+* [Sample CSV file](https://eforexcel.com/wp/wp-content/uploads/2020/09/5m-Sales-Records.zip);
 
 ## Errors Experienced
 
@@ -13,7 +13,14 @@ Grab the article at [https://medium.com/geekculture/build-high-performant-micros
 
 ## Notes:
 
-* Abc;
+* [Single Instruction Multiple Data](https://en.wikipedia.org/wiki/SIMD#:~:text=Single%20instruction%2C%20multiple%20data%20(SIMD,parallel%20processing%20in%20Flynn's%20taxonomy.&text=SIMD%20describes%20computers%20with%20multiple,on%20multiple%20data%20points%20simultaneously.);
+* Zero Copy ByteString API;
+* [Dynamic Buffer Size](https://github.com/dotnet/runtime/pull/54755);
+* [Transient Fault Handling](https://docs.microsoft.com/en-us/aspnet/core/grpc/retries?view=aspnetcore-6.0);
+* [TCP head of line blocking](https://http3-explained.haxx.se/en/why-quic/why-tcphol);
+* [MSQUIC](https://github.com/microsoft/msquic);
+* [RFC for HTTP/3](https://datatracker.ietf.org/doc/html/draft-ietf-quic-http-34);
+* [Unary call](https://grpc.io/docs/what-is-grpc/core-concepts/);
 
 ## What's it all about?
 
