@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcService", "GrpcService.csproj", "{D6C41880-EAD4-4E8F-A2CE-86CFA1F1A277}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcClient", "..\GrpcClient\GrpcClient.csproj", "{5FCAA61D-2746-44AD-A27D-858C56DCD2C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcClient", "..\GrpcClient\GrpcClient.csproj", "{5FCAA61D-2746-44AD-A27D-858C56DCD2C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesDataClient", "..\SalesDataClient\SalesDataClient.csproj", "{51F63168-96C4-4B3C-ABB6-D79F71EBE65F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5FCAA61D-2746-44AD-A27D-858C56DCD2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FCAA61D-2746-44AD-A27D-858C56DCD2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FCAA61D-2746-44AD-A27D-858C56DCD2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F63168-96C4-4B3C-ABB6-D79F71EBE65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F63168-96C4-4B3C-ABB6-D79F71EBE65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F63168-96C4-4B3C-ABB6-D79F71EBE65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F63168-96C4-4B3C-ABB6-D79F71EBE65F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
